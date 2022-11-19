@@ -39,7 +39,7 @@ I write ```C++```,
 - 📫 How to reach me: [@chiranjeevVsri](https://twitter.com/chiranjeevVsri) or [Chiranjeev](mailto:chiranjeev.official@icloud.com)
 - 😄 Pronouns: he/him
 - 🎧 Listening to: [Out of Time](https://www.youtube.com/watch?v=2fDzCWNS3ig)
-- ⚡ Fun fact: I have a community of my own have a look at [LKODevs](https://www.commudle.com/communities/lko-devs)
+- ⚡ Fun fact: I have a community of my own, have a look at [LKODevs](https://www.commudle.com/communities/lko-devs)
 
 
 
