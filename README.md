@@ -7,6 +7,7 @@
 ## My Github Stats 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekGuy-29&langs_count=8)](https://github.com/GeekGuy-29/github-readme-stats)
+[![Chiranjeev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeekGuy-29)](https://github.com/GeekGuy-29/github-readme-stats)
 
 ## Check out my Holopin badges 😉
 
