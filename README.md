@@ -1,8 +1,27 @@
 
 
 <h1 align="center">Hi 👋, I'm Chiranjeev V. Srivastava</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GeekGou-29&label=Profile%20views&color=0e75b6&style=flat" alt="GeekGuy-29" /> </p>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/chiranjeev-veer-srivastava/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/cringeeeev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/chiranjeevVsri">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+  <a href="https://github.com/GeekGuy-29">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+   </a>
+  <a href="https://www.codechef.com/users/chiranjeev_sri">
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="Codechef Badge"/>
+   </a>
+  <a href="https://www.hackerrank.com/chiranjeev_impo1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+   </a>
+</div>
 
 ## My Github Stats 🚀
 
