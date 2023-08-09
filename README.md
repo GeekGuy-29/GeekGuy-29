@@ -28,18 +28,17 @@
 
 ## About Me ⚡️
 
-I'm a Computer Science oriented, ECE undergrad.
+I'm a Computer Science oriented, ECE Graduate.
 I write ```C++```,
-```ExpressJS``` and even the occasional ```MySQL```. Apart from that, I am a Rank 2 Field Operator [@TwilioQuest](https://www.twilio.com/quest)
+```ExpressJS``` and even the occasional ```MySQL```
 
 - 🌏 I live in Lucknow, India
 - 🔭 I’m currently working on some hardware/software projects
 - 🌱 I’m currently looking for a new job
 - 💬 Ask me about JavaScript, C++
 - 📫 How to reach me: [@chiranjeevVsri](https://twitter.com/chiranjeevVsri) or [Chiranjeev](mailto:chiranjeev.official@icloud.com)
-- 😄 Pronouns: he/him
 - 🎧 Listening to: [Out of Time](https://www.youtube.com/watch?v=2fDzCWNS3ig)
-- ⚡ Fun fact: I have a community of my own, have a look at [LKODevs](https://www.commudle.com/communities/lko-devs)
+
 
 
 
